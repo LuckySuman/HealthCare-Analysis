@@ -12,3 +12,6 @@ Missing value treatment: Data cleaning is done in order to analyze the data prop
 
 Univariant & Bivariant Analysis: From this data set, it is clear that 20% of total patients were absent at appointments. All the features with respect to absence rate and presence rate are analyzed to get some insights to find who were no-show patients.
 
+![image](https://github.com/LuckySuman/HealthCare-Analysis/assets/124083128/22723e7c-37fd-4e7e-9766-fbaae0e2fadf)
+
+
